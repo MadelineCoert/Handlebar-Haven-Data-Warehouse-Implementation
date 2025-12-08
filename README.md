@@ -2,7 +2,7 @@
 ---
 
 ## Final Report  
-**[🔗 View the full PDF report here](Handlebar_Haven_Data_Warehousing_Implementation.pdf)**  
+**[🔗 View the full PDF report here](BSAN7206_A2_GROUP10.pdf)**  
 *A complete breakdown of the dimensional model, ETL workflows, business insights and strategic recommendations.*
 
 This project implements an end-to-end data warehouse for Handlebar Haven, a global bicycle manufacturer and retailer. It includes dimensional modelling, ETL development using SSIS, SQL-based data integration and analytical reporting of key performance drivers across customers, products, territories and time periods.
