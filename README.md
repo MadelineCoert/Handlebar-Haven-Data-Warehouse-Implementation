@@ -67,6 +67,16 @@ This project strengthened my skills in dimensional modelling, ETL development an
 ---
 
 ## Author
+This project was completed as a group assignment for the course BSAN7206 at The University of Queensland.
+
+Group members:
+Madeline Coert
+YING HONG
+RACHEL LOW
+GEORGE ONISHI
+CALEB WONG
+
+The repository is hosted on my personal GitHub for portfolio purposes only.
 
 **Madeline Coert**  
 Graduate Certificate in Business Analytics – University of Queensland  
